@@ -12,22 +12,22 @@ At Intercloud Ltd., I work as a software engineer in their cloud system departme
 <h2 align="center">🔥 Skills</h2>
 <hr/>
 <div style="display: flex;justify-content: space-between;">
-<p align="center">
+<p>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/python.png" height="128px"/>
 </p>
-<p align="center">
+<p>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/cplusplus.png" height="128px"/>
 </p>
-<p align="center">
+<p>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/C.png" height="128px"/>
 </p>
-<p align="center">
+<p >
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/javascript.png" height="128px"/>
 </p>
-<p align="center">
+<p >
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/html.png" height="128px"/>
 </p>
-<p align="center">
+<p>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/css.png" height="128px"/>
 </p>
 </div>
