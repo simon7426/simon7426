@@ -11,62 +11,66 @@ At Intercloud Ltd., I work as a software engineer in their cloud system departme
 <hr/>
 <h2 align="center">🔥 Skills</h2>
 <hr/>
-<span style="display: flex;justify-content: space-between;">
-<p>
+<table>
+<tr>
+<td>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/python.png" height="128px"/>
-</p>
-<p>
+</td>
+<td>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/cplusplus.png" height="128px"/>
-</p>
-<p>
+</td>
+<td>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/C.png" height="128px"/>
-</p>
-<p >
+</td>
+<td>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/javascript.png" height="128px"/>
-</p>
-<p >
+</td>
+<td>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/html.png" height="128px"/>
-</p>
-<p>
+</td>
+<td>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/css.png" height="128px"/>
-</p>
-</span>
-
-<div style="display: flex;justify-content: space-between;">
-<p align="center">
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/flaskgithub.svg" height="128px"/>
-</p>
-<p align="center">
+</td>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/django.png" height="128px"/>
-</p>
-<p align="center">
+</td>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/fastapi.png" height="128px"/>
-</p>
-<p align="center">
+</td>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/vuejs.png" height="128px"/>
-</p>
-</div>
-
-<div style="display: flex;justify-content: space-between;">
-<p align="center">
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/docker.png" height="128px"/>
-</p>
-<p align="center">
+</td>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/kubernetes.png" height="128px"/>
-</p>
-<p align="center">
+</td>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/git.png" height="128px"/>
-</p>
-<p align="center">
+</td>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/postgresql.png" height="128px"/>
-</p>
-<p align="center">
+</td>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/mysql.png" height="128px"/>
-</p>
-<p align="center">
+</td>
+<td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/linux.png" height="128px"/>
-</p>
-</div>
+</td>
+</tr>
+</table>
 
 <hr/>
 <h2 align="center">🔥 Github Activities</h2>
