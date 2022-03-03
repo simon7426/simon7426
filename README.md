@@ -11,6 +11,7 @@ At Intercloud Ltd., I work as a software engineer in their cloud system departme
 <hr/>
 <h2 align="center">🔥 Skills</h2>
 <hr/>
+<div align="center">
 <table>
 <tr>
 <td>
@@ -33,6 +34,8 @@ At Intercloud Ltd., I work as a software engineer in their cloud system departme
 </td>
 </tr>
 </table>
+</div>
+<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -49,6 +52,8 @@ At Intercloud Ltd., I work as a software engineer in their cloud system departme
 </td>
 </tr>
 </table>
+</div>
+<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -71,6 +76,7 @@ At Intercloud Ltd., I work as a software engineer in their cloud system departme
 </td>
 </tr>
 </table>
+</div>
 
 <hr/>
 <h2 align="center">🔥 Github Activities</h2>
