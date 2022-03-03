@@ -11,7 +11,7 @@ At Intercloud Ltd., I work as a software engineer in their cloud system departme
 <hr/>
 <h2 align="center">🔥 Skills</h2>
 <hr/>
-<div style="display: flex;justify-content: space-between;">
+<span style="display: flex;justify-content: space-between;">
 <p>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/python.png" height="128px"/>
 </p>
@@ -30,7 +30,7 @@ At Intercloud Ltd., I work as a software engineer in their cloud system departme
 <p>
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/css.png" height="128px"/>
 </p>
-</div>
+</span>
 
 <div style="display: flex;justify-content: space-between;">
 <p align="center">
