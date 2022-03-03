@@ -54,7 +54,7 @@ At Intercloud Ltd., I work as a software engineer in their cloud system departme
 </table>
 </div>
 <div align="center">
-<table>
+<table style="border: none">
 <tr>
 <td align="center">
     <img alt="Python" src="https://s3.brilliant.com.bd/simon_portfolio/img/logo/docker.png" height="128px"/>
