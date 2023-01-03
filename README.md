@@ -4,7 +4,7 @@
 </p>
 <hr/>
 <p align="center">
-Hi, I'm Simon Islam. I am a full-stack developer. Currently, I'm working in Intercloud Ltd., Bangladesh as a software engineer. I have a Bachelor's Degree in Computer Science and Engineering from Chittagong University of Engineering & Technology. In my university years, I have participated in various competitive programming contests. CS has been my passion since childhood. I feel lucky to be able to pursue my career in this field.<br>
+Hi, I'm Simon Islam. I am a full-stack developer. I have a Bachelor's Degree in Computer Science and Engineering from Chittagong University of Engineering & Technology. In my university years, I have participated in various competitive programming contests. CS has been my passion since childhood. I feel lucky to be able to pursue my career in this field.<br>
 At Intercloud Ltd., I work as a software engineer in their cloud system department. My work here includes building and integrating various features for their public cloud system. I was involved in developing their simple storage service and payment system.
 </p>
 
